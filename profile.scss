@@ -1,0 +1,33 @@
+$hover-color: gray;
+$text-color: black;
+$bg-color: blue;
+
+h1 {font-size: 40%px;
+    text-blink: red;
+}
+    ul {
+      blackground: $bg-color;
+      margin: 0px;
+      padding: 0;
+      list-style: none;
+    }
+
+    li {
+      display: inline;
+    }
+
+    a {
+      color: $text-color;
+      display: inline-block;
+      padding: 0;
+      text-decoration: blink;
+    }
+
+    a:hover {
+      background: $hover-color;
+      display: inherit;
+
+
+    }
+
+

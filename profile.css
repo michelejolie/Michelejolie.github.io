@@ -1,0 +1,24 @@
+h1 {
+  font-size: 40% px;
+  text-blink: red; }
+
+ul {
+  blackground: blue;
+  margin: 0px;
+  padding: 0;
+  list-style: none; }
+
+li {
+  display: inline; }
+
+a {
+  color: black;
+  display: inline-block;
+  padding: 0;
+  text-decoration: blink; }
+
+a:hover {
+  background: gray;
+  display: inherit; }
+
+/*# sourceMappingURL=profile.css.map */
